@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Component_Deals</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1bc409c6-fa72-4429-b216-6590fe7dd4cd</testCaseGuid>
+   <variable>
+      <defaultValue>'Shop AT&amp;T deals by category'</defaultValue>
+      <description></description>
+      <id>eb58f2ad-18ea-464a-ac48-003f89a34e58</id>
+      <masked>false</masked>
+      <name>assertion</name>
+   </variable>
+</TestCaseEntity>

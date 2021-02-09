@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Component_Internet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b664197c-9219-417f-a4f8-476d8999a077</testCaseGuid>
+   <variable>
+      <defaultValue>'Get more when you switch to AT&amp;T Fiber'</defaultValue>
+      <description></description>
+      <id>974b62bb-27e9-4319-a08d-4494ca0c0fc5</id>
+      <masked>false</masked>
+      <name>assertion</name>
+   </variable>
+</TestCaseEntity>

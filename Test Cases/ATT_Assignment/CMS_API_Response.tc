@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CMS_API_Response</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8854dc3-6db2-417d-9943-a212380526d9</testCaseGuid>
+   <variable>
+      <defaultValue>200</defaultValue>
+      <description></description>
+      <id>358eee54-497d-4990-a545-36b8d3368ae7</id>
+      <masked>false</masked>
+      <name>Assertion</name>
+   </variable>
+</TestCaseEntity>

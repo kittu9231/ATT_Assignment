@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ATT_Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3014966a-fbcd-418e-8a43-59b529365642</testCaseGuid>
+   <variable>
+      <defaultValue>'internet'</defaultValue>
+      <description></description>
+      <id>7f47ddc3-598e-4f5e-8834-0304849eb465</id>
+      <masked>true</masked>
+      <name>Searchterm</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fiber-fast internet'</defaultValue>
+      <description></description>
+      <id>e05451cb-ed17-4d35-ada0-7dee2bd10de6</id>
+      <masked>false</masked>
+      <name>Assertion</name>
+   </variable>
+</TestCaseEntity>

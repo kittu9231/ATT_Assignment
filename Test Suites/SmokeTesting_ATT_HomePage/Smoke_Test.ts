@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Smoke_Test</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>39d0c578-9e4c-4c10-91f8-2048c02b79ae</testSuiteGuid>
+   <testCaseLink>
+      <guid>303ee214-9fd9-45ff-ba49-b7a382cc318c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ATT_Assignment/Load_HomePage</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0fb13b67-9bb7-43ed-8f58-f86299ec12a3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ATT_Assignment/BrokenLinks</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>10469848-f7c1-42c5-9ccd-f28042c22826</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ATT_Assignment/Component_Deals</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>eb58f2ad-18ea-464a-ac48-003f89a34e58</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1f9b1e05-c269-40cc-9ac2-d55a4b353ef9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ATT_Assignment/ATT_Search</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7f47ddc3-598e-4f5e-8834-0304849eb465</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e05451cb-ed17-4d35-ada0-7dee2bd10de6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d04e0620-f2f1-4033-a9f6-f8e079ed0a3f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ATT_Assignment/Component_Internet</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>974b62bb-27e9-4319-a08d-4494ca0c0fc5</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3c35e838-5e1a-4eb3-a3ec-033c0d9cdf79</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ATT_Assignment/CMS_API_Response</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>358eee54-497d-4990-a545-36b8d3368ae7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
